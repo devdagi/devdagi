@@ -29,7 +29,7 @@
 * 🔐 Focused on OSINT, Secure Systems, Automation & Web Applications
 * 🌱 Learning **Cloud Security, AI Systems, and Scalable Architecture**
 * 💞️ Open to collaboration on **Open Source & Cybersecurity Research**
-* 🚀 Founder of **ElevateFlow Web Designs**
+* 🚀 Founder of **........**
 * ⚡ Fun fact: I build systems where development meets security mindset
 
 ---
